@@ -1,4 +1,4 @@
-// Name: Kevin Koepp
+// Name: Kevin
 // CSE 174, Section D
 // Date: January 28, 2022
 // Description: Practice with writing, saving, and compiling code.
