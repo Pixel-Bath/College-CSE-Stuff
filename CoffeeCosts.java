@@ -1,4 +1,3 @@
-// Kevin Koepp
 // CSE 174, Lab 2: Calculating Coffee Costs
 
 // This class will print the total number of coffee bought for each size
