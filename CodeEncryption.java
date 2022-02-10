@@ -38,7 +38,7 @@ public class CodeEncryption {
     int fifthShift = fifthLetter - shiftValue;   
           
     // Print the encrypted word and cast char:
-    System.out.print("Your encrypted word is: " + (char)firstShift
+    System.out.println("Your encrypted word is: " + (char)firstShift
         + (char)secondShift + (char)thirdShift + (char) fourthShift
             + (char)fifthShift);
   }
