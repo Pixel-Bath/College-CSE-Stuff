@@ -20,7 +20,7 @@ public class CodeEncryption {
 
     // Turn encryption key into a shift value between 0 and 42
     // output the shift value (optional)
-    float shiftValue = key % 43;
+    int shiftValue = key % 43;
     System.out.println("Shift value: " + (int)shiftValue);
     System.out.println("");
     
@@ -31,11 +31,11 @@ public class CodeEncryption {
     int fourthLetter = word.charAt(3);
     int fifthLetter = word.charAt(4);
     
-    int firstShift = firstLetter - (int)shiftValue;
-    int secondShift = secondLetter - (int)shiftValue;
-    int thirdShift = thirdLetter - (int)shiftValue;
-    int fourthShift = fourthLetter - (int)shiftValue;
-    int fifthShift = fifthLetter - (int)shiftValue;   
+    int firstShift = firstLetter - shiftValue;
+    int secondShift = secondLetter - shiftValue;
+    int thirdShift = thirdLetter - shiftValue;
+    int fourthShift = fourthLetter - shiftValue;
+    int fifthShift = fifthLetter - shiftValue;   
           
     // Print the encrypted word and cast char:
     System.out.print("Your encrypted word is: " + (char)firstShift
