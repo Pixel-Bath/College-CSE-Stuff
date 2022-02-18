@@ -1,4 +1,4 @@
-// Kevin Koepp
+// Kevin
 // CSE 174
 // Lab 3.2: File Converter
 // 02-11-22
