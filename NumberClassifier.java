@@ -1,4 +1,4 @@
-// Kevin Koepp
+// Kevin
 // CSE 174
 // 2-18-22
 // Lab 4: Number Converter
