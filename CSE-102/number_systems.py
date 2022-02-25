@@ -1,4 +1,4 @@
-# Author Name: Kevin Koepp
+# Author Name: Kevin
 # Date: 2/18/2022
 '''
 Python program to convert decimal number into binary,
