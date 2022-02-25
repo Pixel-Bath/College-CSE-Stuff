@@ -35,8 +35,7 @@ public class WordleWizard {
     }
     
     // Print out all words found and total number of words found.
-    System.out.printf("%n%s contained %d valid Wordle words.%n", 
-        fileName, validWordle);
+    System.out.printf("%n%s contained %d valid Wordle words.%n", fileName, validWordle);
         
   }
 } // end class
