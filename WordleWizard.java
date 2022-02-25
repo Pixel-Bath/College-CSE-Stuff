@@ -1,4 +1,4 @@
-// Name: Kevin Koepp
+// Name: Kevin
 // CSE 174
 // 2-25-2022
 // This program scans other files inputted by the user and sends back
