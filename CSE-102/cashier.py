@@ -1,5 +1,5 @@
-# Author: Kevin Koepp
-# Email: koeppkm2@miamioh.edu
+# Author: Kevin
+# Email: ******
 # Section: D
 # Date: 2-25-2022
 
