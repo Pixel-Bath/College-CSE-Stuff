@@ -1,4 +1,4 @@
-# Author: Kevin Koepp
+# Author: Kevin
 # Date: 2/18/2022
 '''
 Purpose: to find the area of a rectangle, given the
