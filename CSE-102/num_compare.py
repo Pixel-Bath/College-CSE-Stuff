@@ -1,4 +1,4 @@
-# Author: Kevin Koepp
+# Author: Kevin
 # Date: 3-4-2022
 # CSE 102 Section D
 '''
