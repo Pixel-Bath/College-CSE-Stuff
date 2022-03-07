@@ -73,17 +73,16 @@ public class TryCatch {
       } 
     }
     
-    // Print that there was no data found if there were no ints in file:
+    // Print that there was no data found if there were no ints in file.
+    // Otherwise, calculate average and print:
     if (counter == 0) {
       System.out.println("\nNo valid data found. No stats available.");
     } else {
-    
       average = sum / counter;
       System.out.println("\nTotal  : " + sum);
       System.out.println("Min    : " + min);
       System.out.println("Max    : " + max);
       System.out.printf("Average: %.1f%n", average);   
-      
     }
   }
 } // end class
