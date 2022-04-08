@@ -1,4 +1,4 @@
-// Kevin Koepp
+// Kevin
 // CSE 174
 // April 8, 2022
 // This program is a series of methods designed to manipulate vowels in strings,
