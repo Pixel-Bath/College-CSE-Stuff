@@ -60,7 +60,7 @@ public class Lab10 {
       return false;
     } else {
     
-      // Divide each number counting up to "num"
+      // Mod each number counting up to "num"
       // starting at 2:
       for (int j = 2; j < num; j++) {
         if (num % j == 0) {
