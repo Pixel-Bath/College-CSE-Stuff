@@ -1,4 +1,4 @@
-// Kevin Koepp
+// Kevin
 // CSE 174
 // 4-22-2022
 // Lab 12
