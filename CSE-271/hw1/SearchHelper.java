@@ -111,6 +111,7 @@ public class SearchHelper {
             // Replace all "?" instances with "?" in the new String:
             if (prompt.substring(i, i + 1).equals("?")) {
                 newString += "?";
+                
             // Otherwise, copy the list String:
             } else {
                 newString += list.substring(i, i + 1);
