@@ -2,7 +2,6 @@
 /**
  * This class is used to gather attributes about food and return
  * values such as price and weight.
- * @author koeppkm2
  *
  */
 public abstract class Food extends Thing {
