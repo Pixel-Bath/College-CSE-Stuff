@@ -2,7 +2,6 @@
 /**
  * This class creates a new Octopus object and gives it
  * specified attributes.
- * @author koeppkm2
  *
  */
 public class Octopus extends Pet {
