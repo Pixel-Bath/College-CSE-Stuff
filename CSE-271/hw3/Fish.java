@@ -2,7 +2,6 @@
 /**
  * This class creates a new Fish object and gives it
  * specified attributes.
- * @author koeppkm2
  *
  */
 public class Fish extends Pet {
