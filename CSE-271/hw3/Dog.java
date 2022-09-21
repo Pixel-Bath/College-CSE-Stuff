@@ -2,7 +2,6 @@
 /**
  * This class creates a new Dog object and gives it
  * specified attributes.
- * @author koeppkm2
  *
  */
 public class Dog extends Pet {
