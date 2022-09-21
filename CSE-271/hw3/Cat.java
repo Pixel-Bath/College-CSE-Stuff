@@ -2,7 +2,6 @@
 /**
  * This class creates a new Cat object and gives it
  * specified attributes.
- * @author koeppkm2
  *
  */
 public class Cat extends Pet {
