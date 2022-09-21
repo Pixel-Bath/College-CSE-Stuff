@@ -5,7 +5,6 @@
  * methods in this class are abstract and overridden by child and grandchild
  * classes.
  * 
- * @author koeppkm2
  *
  */
 public abstract class Thing {
