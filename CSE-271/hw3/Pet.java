@@ -1,7 +1,6 @@
 /**
  * This class is used to gather attributes about pets and return
  * values such as the price and food per day.
- * @author koeppkm2
  *
  */
 public abstract class Pet extends Thing {
