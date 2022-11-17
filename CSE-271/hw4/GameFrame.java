@@ -1,4 +1,4 @@
-// Kevin Koepp, CSE 271
+// Kevin, CSE 271
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
