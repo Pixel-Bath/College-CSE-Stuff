@@ -1,4 +1,4 @@
-// Kevin Koepp, CSE 271
+// Kevin, CSE 271
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -10,7 +10,7 @@ import javax.swing.JPanel;
  * This class contains the paintable objects such as the enemies, turret, and
  * missile. It also keeps track of the total score.
  * 
- * @author DJ Rao
+ * 
  */
 @SuppressWarnings("serial")
 public class GamePanel extends JPanel {
