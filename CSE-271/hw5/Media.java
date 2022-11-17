@@ -4,7 +4,6 @@ import java.io.Serializable;
 /**
  * This class is a parent of Media and houses
  * their general properties.
- * @author koeppkm2
  *
  */
 public class Media implements Serializable {
