@@ -8,7 +8,7 @@ import javax.swing.JComponent;
 /**
  * This is an abstract parent class for
  * BigEnemy and SmallEnemy.
- * @author koeppkm2
+ *
  *
  */
 public abstract class Enemy extends JComponent {
