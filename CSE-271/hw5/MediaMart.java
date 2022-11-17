@@ -9,7 +9,6 @@ import java.util.Scanner;
  * 
  * @note Students should not modify this class.
  * 
- * @author raodm
  *
  */
 public class MediaMart {
