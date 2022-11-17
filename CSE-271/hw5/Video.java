@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
  * A video class that extends media and implements comparable objects.
- * @author koeppkm2
  *
  */
 public class Video extends Media implements Serializable, Comparable<Video> {
