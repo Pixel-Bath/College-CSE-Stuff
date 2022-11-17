@@ -1,4 +1,4 @@
-// Kevin Koepp, CSE 271
+// Kevin, CSE 271
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -7,7 +7,6 @@ import javax.swing.JComponent;
 
 /**
  * This class creates a Turret for the game panel.
- * @author koeppkm2
  *
  */
 public class Turret extends JComponent {
