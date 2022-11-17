@@ -13,7 +13,7 @@ import javax.swing.Timer;
 /**
  * The top-level Frame class class for the Game.
  * 
- * @author DJ Rao
+ * 
  */
 @SuppressWarnings("serial")
 public class GameFrame extends JFrame {
