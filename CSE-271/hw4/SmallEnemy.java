@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * This class extends on Enemy, and creates Small enemies
  * as well as their properties.
- * @author koeppkm2
+ * 
  *
  */
 public class SmallEnemy extends Enemy {
