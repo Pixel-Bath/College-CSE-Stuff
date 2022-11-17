@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
  * An audio class that extends media and implements comparable objects.
- * @author koeppkm2
  *
  */
 public class Audio extends Media implements Serializable, Comparable<Audio> {
