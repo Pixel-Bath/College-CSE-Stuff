@@ -8,7 +8,6 @@ import javax.swing.JComponent;
 /**
  * This class extends on JComponent, and creates
  * Missiles and their properties.
- * @author koeppkm2
  *
  */
 public class Missile extends JComponent {
