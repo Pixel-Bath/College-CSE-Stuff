@@ -4,7 +4,6 @@ import java.util.ArrayList;
  * A standard implementation of merge sort algorithm. The merge sort
  * is designed to sort ArrayList of objects.
  * 
- * @author raodm
  *
  */
 public class MergeSort {
