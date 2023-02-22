@@ -5,7 +5,7 @@
  * 
  * Fix: Added style fixes and comments.
 */
-// Copyright by Kevin Koepp, 2/22/2023
+// Copyright by Kevin, 2/22/2023
 
 #include <iostream>
 #include <cmath>
