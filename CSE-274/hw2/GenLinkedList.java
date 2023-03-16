@@ -1,4 +1,4 @@
-// Kevin=, CSE 274
+// CSE 274
 
 /**
  * Class for creating a Linked List to store media.
