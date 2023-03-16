@@ -2,7 +2,7 @@
 /**
  * An interface that must be implemented by Generic Linked List in Homework 2
  * 
- * @author john1819
+ * 
  *
  */
 public interface List<T extends Comparable<T>> {
