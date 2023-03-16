@@ -1,4 +1,4 @@
-// Kevin Koepp, CSE 274
+// CSE 274
 
 import java.util.Scanner;
 import java.io.File;
