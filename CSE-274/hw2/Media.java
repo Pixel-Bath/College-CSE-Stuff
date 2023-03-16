@@ -1,5 +1,5 @@
 
-// Kevin, CSE 274
+// CSE 274
 
 /**
  * Class designed for holding a set
